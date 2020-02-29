@@ -1,0 +1,2 @@
+cd /d "F:\ProjectCode\C++\Driver\pcPCHunter-master\ArkProtectApp" &msbuild "ArkProtectApp.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="F:\ProjectCode\C++\Driver\pcPCHunter-master" 
+exit %errorlevel% 
